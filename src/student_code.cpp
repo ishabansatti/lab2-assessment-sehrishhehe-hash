@@ -8,9 +8,7 @@ int getIntValue() {
 }
 
 float getFloatValue() {
-    // Declare a variable var_float of type float and set its value to 10.75.
-    //id
-    //return var_float;
+    // Declare a variable var_float of type float and set its valu
 }
 
 char getCharValue() {
