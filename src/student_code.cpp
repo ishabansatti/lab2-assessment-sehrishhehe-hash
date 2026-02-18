@@ -3,8 +3,8 @@ using namespace std;
 
 int getIntValue() {
     // Declare a variable var_int of type int and set its value to 10.
-    int var_int = 10;
-    return var_int;
+    cout << setw(10) << "George" <<endl;
+    return 0;
 }
 
 float getFloatValue() {
